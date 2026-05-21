@@ -1,0 +1,6 @@
+# Tout ignorer
+*
+
+# Sauf les fichiers suivants :
+!.gitignore
+!liste_de_femmes_scientifiques.csv
