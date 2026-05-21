@@ -1,6 +1,7 @@
 Prénom;Nom;Lien wikipédia;Nationalité;Année naissance;Année Décès;Domaine de recherche;Travaux majeurs;Prix et récompenses
 Sophie;Adenot;;;;;;;
 Denise;Albe-Fessard;;;;;;;
+Frances;Allen;https://fr.wikipedia.org/wiki/Frances_Allen;Américaine;1932;2020;Informatique;;
 Yvette;Amice;;;;;;;
 Janaki;Ammal;https://fr.wikipedia.org/wiki/Janaki_Ammal;Indienne;1897;1984;Cytogénétique, botanique;;
 Nalini;Anantharaman;https://fr.wikipedia.org/wiki/Nalini_Anantharaman;Française;1976;;;;
@@ -70,6 +71,7 @@ Geneviève;Guitel;;;;;;;
 Sébastienne;Guyot;https://fr.wikipedia.org/wiki/Sébastienne_Guyot;;;;;;
 Margherita;Hack;;;;;;;
 Claudie;Haigneré;;;;;;;
+Margaret;Hamilton;https://fr.wikipedia.org/wiki/Margaret_Hamilton_(scientifique);Américaine;1936;;;;
 Claudine;Hermann;;;;;;;
 Caroline;Herschel;;;;;;;
 Grace;Hopper;;;;;;;
