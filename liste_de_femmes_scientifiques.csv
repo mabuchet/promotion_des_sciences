@@ -1,4 +1,4 @@
-Prénom;Nom;Lien wikipédia;Nationalité;Année naissance;Année Décès;Domaine de recherche;Travaux majeurs;Prix et récompenses
+Prénom;Nom;Lien wikipédia;Nationalité;Année naissance;Année Décès;Domaine de recherche;Travaux majeurs ou faits remarquables;Prix et récompenses
 Sophie;Adenot;;;;;;;
 Denise;Albe-Fessard;;;;;;;
 Frances;Allen;https://fr.wikipedia.org/wiki/Frances_Allen;Américaine;1932;2020;Informatique;;
@@ -6,12 +6,14 @@ Yvette;Amice;;;;;;;
 Janaki;Ammal;https://fr.wikipedia.org/wiki/Janaki_Ammal;Indienne;1897;1984;Cytogénétique, botanique;;
 Nalini;Anantharaman;https://fr.wikipedia.org/wiki/Nalini_Anantharaman;Française;1976;;;;
 Frances;Arnold;https://fr.wikipedia.org/wiki/Frances_Arnold;Américaine;1956;;;;Prix Nobel de chimie 2018
+Isabelle;Arnulf;;Française;?;;Neurologie;Étude des pathologies du sommeil;
 Michèle;Audin;;;;;;;
 Alexia;Auffèves;;Française;?;;;;
-Alice;Ball;;;;;;;
+Alice;Ball;https://fr.wikipedia.org/wiki/Stella_Baruk;Française;1932;;Mathématiques, didactique;;
 Jeanne;Baret;;;;;;;
 Françoise;Barré-Sinoussi;https://fr.wikipedia.org/wiki/Françoise_Barré-Sinoussi;Française;1947;;;;Prix Nobel de physiologie ou médecine 2008 
 Denise;Barthomeuf;;;;;;;
+Stella;Baruk;;;;;;;
 Jocelyn;Bell;https://fr.wikipedia.org/wiki/Jocelyn_Bell;Britannique ;1943; ;;;
 Carolyn;Bertozzi;https://fr.wikipedia.org/wiki/Carolyn_R._Bertozzi;Américaine;1966;;;;Prix Nobel de chimie 2022
 Joan;Birman;https://fr.wikipedia.org/wiki/Joan_Birman;Américaine;1927;;Mathématiques, topologie, théorie des nœuds;;
@@ -79,6 +81,7 @@ Andrée;Hoppilliard;;;;;;;
 Katherine;Johnson;https://fr.wikipedia.org/wiki/Katherine_Johnson;Américaine;1918;2020;;;
 Irène;Joliot-Curie;https://fr.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie;Française;1897;1956;;;Prix Nobel de chimie 1935
 Geneviève;Jourdain;;;;;;;
+Samah;Karaki;https://fr.wikipedia.org/wiki/Samah_Karaki;Franco-libanaise;1984;;Neurobiologie;;
 Katalin;Karikó;https://fr.wikipedia.org/wiki/Katalin_Karikó;Hongro-américaine;1955;;;;Prix Nobel de physiologie ou médecine 2023
 Anne-Marie;Kermarrec;;;;;;;
 Dorothéa;Klumpke;;;;;;;
@@ -107,6 +110,7 @@ Henriette;Mathieu-Faraggi;;;;;;;
 Barbara;McClintock;https://fr.wikipedia.org/wiki/Barbara_McClintock;Américaine;1902;1992;Cytogénétique;;Prix Nobel de physiologie ou médecine 1983
 Lise;Meitner;https://fr.wikipedia.org/wiki/Lise_Meitner;Autrichienne;1878;1968;;;
 Maryam;Mirzakhani;https://fr.wikipedia.org/wiki/Maryam_Mirzakhani;Iranienne;1977;2017;;;
+Françoise;Moret-Bailly;https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Moret-Bailly;Française;1934;;Mathématiques;Première femme présidente d'université en France. ;
 Cécile;Morette;;;;;;;
 May-Britt;Moser;https://fr.wikipedia.org/wiki/May-Britt_Moser;Norvégienne;1963;;;;Prix Nobel de physiologie ou médecine 2014
 Edith;Mourier;;;;;;;
