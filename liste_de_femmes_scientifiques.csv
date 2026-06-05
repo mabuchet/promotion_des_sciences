@@ -1,5 +1,6 @@
 Prénom;Nom;Lien wikipédia;Nationalité;Année naissance;Année Décès;Domaine de recherche;Travaux majeurs ou faits remarquables;Prix et récompenses
 Sophie;Adenot;;;;;;;
+Maria Gaetana;Agnesi;https://fr.wikipedia.org/wiki/Maria_Gaetana_Agnesi;Italienne;1718;1799;Mathématiques;;
 Denise;Albe-Fessard;;;;;;;
 Frances;Allen;https://fr.wikipedia.org/wiki/Frances_Allen;Américaine;1932;2020;Informatique;;
 Yvette;Amice;;;;;;;
@@ -106,6 +107,7 @@ Ada;Lovelace;https://fr.wikipedia.org/wiki/Ada_Lovelace;;;;;;
 Nicole;Mangin;;;;;;;
 Mileva;Marić;https://fr.wikipedia.org/wiki/Mileva_Einstein;Serbe;1875;1948;;;
 Valérie;Masson-Delmotte;;;;;;;
+Alice;Mathieu-Dubois;https://fr.wikipedia.org/wiki/Alice_Mathieu-Dubois;Française;1861;1942;Médecine, médecine dentaire;;
 Henriette;Mathieu-Faraggi;;;;;;;
 Barbara;McClintock;https://fr.wikipedia.org/wiki/Barbara_McClintock;Américaine;1902;1992;Cytogénétique;;Prix Nobel de physiologie ou médecine 1983
 Lise;Meitner;https://fr.wikipedia.org/wiki/Lise_Meitner;Autrichienne;1878;1968;;;
@@ -143,13 +145,12 @@ Michelle;Schatzman;;;;;;;
 Anne-Marcelle;Schrameck;;;;;;;
 Marie-Hélène;Schwartz;;;;;;;
 Charlotte;Scott;https://fr.wikipedia.org/wiki/Charlotte_Scott;;;;;;
-Sylvia;Serfaty;;;;;;;
-Josiane;Serre;;;;;;;
-Heidi;Sevestre;;;;;;;
+Sylvia;Serfaty;https://fr.wikipedia.org/wiki/Sylvia_Serfaty;Française;1975;;Mathématiques;;
+Josiane;Serre;https://fr.wikipedia.org/wiki/Josiane_Serre;Française;1922;2004;Chimie;;
+Heïdi;Sevestre;https://fr.wikipedia.org/wiki/Heïdi_Sevestre;Française;1988;;Glaciologie;;
 Claudia;Sheinbaum;https://fr.wikipedia.org/wiki/Claudia_Sheinbaum;Mexicaine;1962;;Climatologue;;
-Marie;Skłodowska-Curie;https://fr.wikipedia.org/wiki/Marie_Curie;Franco-polonaise;1867;1934;;;Prix Nobel de physique 1903, Prix Nobel de chimie 1911
-Alice;Sollier;;;;;;;
-Hélène;Sparrow;;;;;;;
+Marie;Skłodowska-Curie;https://fr.wikipedia.org/wiki/Marie_Curie;Franco-polonaise;1867;1934;Physique, chimie;;Prix Nobel de physique 1903, Prix Nobel de chimie 1911
+Hélène;Sparrow;https://fr.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_Sparrow;Franco-polonaise;1891;1970;Médecine, microbiologie;;
 Donna;Strickland;https://fr.wikipedia.org/wiki/Donna_Strickland;Canadienne;1959; ;;;Prix Nobel de physique 2018
 Ida;Tacke;https://fr.wikipedia.org/wiki/Ida_Tacke;Allemande ;1896;1978;;;
 Olga;Taussky;https://fr.wikipedia.org/wiki/Olga_Taussky-Todd;Tchéco-américaine ;1906;1995;;;
