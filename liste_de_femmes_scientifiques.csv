@@ -1,7 +1,8 @@
 Prénom;Nom;Lien wikipédia;Nationalité;Année naissance;Année Décès;Domaine de recherche;Travaux majeurs ou faits remarquables;Prix et récompenses
-Sophie;Adenot;;;;;;;
+Sophie;Adenot;https://fr.wikipedia.org/wiki/Sophie_Adenot;Française;1982;;;Astronaute, deuxième femme française, après Claudie Haigneré, à voler dans l'espace et la onzième astronaute française. ;
 Maria Gaetana;Agnesi;https://fr.wikipedia.org/wiki/Maria_Gaetana_Agnesi;Italienne;1718;1799;Mathématiques;;
 Denise;Albe-Fessard;;;;;;;
+Henriette;Alimen;https://fr.wikipedia.org/wiki/Henriette_Alimen;Française;1900;1996;Paléontologie, géologie;;
 Frances;Allen;https://fr.wikipedia.org/wiki/Frances_Allen;Américaine;1932;2020;Informatique;;
 Yvette;Amice;;;;;;;
 Janaki;Ammal;https://fr.wikipedia.org/wiki/Janaki_Ammal;Indienne;1897;1984;Cytogénétique, botanique;;
@@ -11,17 +12,18 @@ Isabelle;Arnulf;;Française;?;;Neurologie;Étude des pathologies du sommeil;
 Michèle;Audin;;;;;;;
 Alexia;Auffèves;;Française;?;;;;
 Alice;Ball;https://fr.wikipedia.org/wiki/Alice_Ball;Américaine;1892;1916;Chimie;;
-Jeanne;Baret;https://fr.wikipedia.org/wiki/Jeanne_Barret;Française;1740;1807;Botanique;;
 Françoise;Barré-Sinoussi;https://fr.wikipedia.org/wiki/Françoise_Barré-Sinoussi;Française;1947;;;;Prix Nobel de physiologie ou médecine 2008 
+Jeanne;Barret;https://fr.wikipedia.org/wiki/Jeanne_Barret;Française;1740;1807;Botanique;;
 Denise;Barthomeuf;https://fr.wikipedia.org/wiki/Denise_Barthomeuf;Française;1934;2004;Chimie;;
 Stella;Baruk;https://fr.wikipedia.org/wiki/Stella_Baruk;Française;1932;;Mathématiques, didactique;;
 Jocelyn;Bell;https://fr.wikipedia.org/wiki/Jocelyn_Bell;Britannique ;1943; ;;;
 Carolyn;Bertozzi;https://fr.wikipedia.org/wiki/Carolyn_R._Bertozzi;Américaine;1966;;;;Prix Nobel de chimie 2022
+Audrey;Bienfait;;Française;1989;;Physique quantique;;
 Joan;Birman;https://fr.wikipedia.org/wiki/Joan_Birman;Américaine;1927;;Mathématiques, topologie, théorie des nœuds;;
 Tatiana;Birshtein;https://fr.wikipedia.org/wiki/Tatiana_Birshtein;Russe;1928;2022;Physique;;
 Elizabeth;Blackburn;https://fr.wikipedia.org/wiki/Elizabeth_Blackburn;Australienne;1948;;;;Prix Nobel de physiologie ou médecine 2009
-Madeleine;Brès;;;;;;;
-Yvonne;Bruhat;https://fr.wikipedia.org/wiki/Yvonne_Choquet-Bruhat;;;;;;
+Madeleine;Brès;https://fr.wikipedia.org/wiki/Madeleine_Brès;Française;1842;1921;Médecine;;
+Yvonne;Bruhat;https://fr.wikipedia.org/wiki/Yvonne_Choquet-Bruhat;Française;1923;2025;Mathématiques, physique, relativité générale;;
 Mary;Brunkow;https://fr.wikipedia.org/wiki/Mary_E._Brunkow;Américaine;1961;;;;Prix Nobel de physiologie ou médecine 2025
 Linda;Buck;https://fr.wikipedia.org/wiki/Linda_B._Buck;Américaine;1947;;;;Prix Nobel de physiologie ou médecine 2004 
 Nathalie;Cabrol;;;;;;;
@@ -30,9 +32,11 @@ Yvette;Cauchois;;;;;;;
 Edmée;Chandon;;Française;1885;1944;;;
 Emmanuelle;Charpentier;https://fr.wikipedia.org/wiki/Emmanuelle_Charpentier;Française;1968;;;;Prix Nobel de chimie 2020
 Rajaâ;Cherkaoui El Moursli;https://fr.wikipedia.org/wiki/Raja%C3%A2_Cherkaoui_El_Moursli;Marocaine;1954;;;;
+Grace;Chisholm;https://fr.wikipedia.org/wiki/Grace_Chisholm_Young;Britannique;1868;1944;Mathématiques;;
 Bibha;Chowdhuri;https://fr.wikipedia.org/wiki/Bibha_Chowdhuri;Indienne;1913;1991;Physique;;
-Françoise;Combes;https://fr.wikipedia.org/wiki/Françoise_Combes;Française;1952;;;;
+Françoise;Combes;https://fr.wikipedia.org/wiki/Françoise_Combes;Française;1952;;Astrophysique, cosmologie;;
 Marthe;Condat;;;;;;;
+Janine;Connes;https://fr.wikipedia.org/wiki/Janine_Connes;Française;1926;2024;Astronomie, spectroscopie;;
 Anita;Conti;;;;;;;
 Gerty;Cori;https://fr.wikipedia.org/wiki/Gerty_Theresa_Cori;;;;;;Prix Nobel de physiologie ou médecine 1947
 Eugénie;Cotton;;;;;;;
@@ -40,6 +44,7 @@ Hélène;Courtois;;Française;1970;;;;
 Radhia;Cousot;;;;;;;
 Odile;Croissant;;;;;;;
 Dorothy;Crowfoot;https://fr.wikipedia.org/wiki/Dorothy_Crowfoot_Hodgkin;Britannique;1910;1994;Chimie;Diffractométrie aux rayons X;Prix Nobel de chimie 1964
+Anne-Laure;Dalibard;https://fr.wikipedia.org/wiki/Anne-Laure_Dalibard;Française;1982;;Mathématiques, équations aux dérivées partielles, mécanique des fluides;;
 Alexandra;David-Néel;https://fr.wikipedia.org/wiki/Alexandra_David-Néel;;;;;;
 Augusta;Déjérine;;;;;;;
 Henriette;Delamarre;;;;;;;
@@ -56,8 +61,8 @@ Cynthia;Dwork;;;;;;;
 Nashwa;Eassa;https://fr.wikipedia.org/wiki/Nashwa_Eassa;Soudanaise;1980;;;;
 Nicole;El-Karoui;;;;;;;
 Gertrude;Elion;https://fr.wikipedia.org/wiki/Gertrude_Elion;Américaine;1918;1999;Virologie, immunologie, pharmacologie, biologie cellulaire;;Prix Nobel de physiologie ou médecine 1988
-Valentina;Emiliani;;;;;;;
-Jacqueline;Ferrand;;;;;;;
+Valentina;Emiliani;https://fr.wikipedia.org/wiki/Valentina_Emiliani;Italienne;;;;;
+Jacqueline;Ferrand;https://fr.wikipedia.org/wiki/Jacqueline_Ferrand;Française;1918;2014;Mathématiques;;
 Jacqueline;Ficini;;;;;;;
 Rosalind;Franklin;https://fr.wikipedia.org/wiki/Rosalind_Franklin;Britannique;1920;1958;;;
 Solène;Gaucher;;;;;;;
@@ -65,6 +70,7 @@ Marthe;Gautier;;;;;;;
 Sophie;Germain;https://fr.wikipedia.org/wiki/Sophie_Germain;Française;1776;1831;;;
 Andrea;Ghez;https://fr.wikipedia.org/wiki/Andrea_M._Ghez;Américaine;1965;;Astrophysique;;Prix Nobel de physique 2020
 Maria;Goeppert-Mayer;https://fr.wikipedia.org/wiki/Maria_Goeppert-Mayer;Germano-américaine ;1906;1972;;;Prix Nobel de physique 1963
+Nathalie;Gontard;https://fr.wikipedia.org/wiki/Nathalie_Gontard;Française;1964;;Science des emballages;;
 Jane;Goodall;https://fr.wikipedia.org/wiki/Jane_Goodall;Britannique;1934;2025;Éthologie, primatologie, anthropologie;Étude des chimpanzés, découverte de leur utilisation d’outils;
 Carol;Greider;https://fr.wikipedia.org/wiki/Carol_Greider;Américaine;1961;;;;Prix Nobel de physiologie ou médecine 2009
 Marianne;Grunberg-Manago;;;;;;;
@@ -75,10 +81,12 @@ Sébastienne;Guyot;https://fr.wikipedia.org/wiki/Sébastienne_Guyot;;;;;;
 Margherita;Hack;;;;;;;
 Claudie;Haigneré;;;;;;;
 Margaret;Hamilton;https://fr.wikipedia.org/wiki/Margaret_Hamilton_(scientifique);Américaine;1936;;;;
-Claudine;Hermann;;;;;;;
+Claudine;Hermann;https://fr.wikipedia.org/wiki/Claudine_Hermann;Française;1945;2021;Physique, semi-conducteurs;;
 Caroline;Herschel;;;;;;;
+Évelyne;Heyer;https://fr.wikipedia.org/wiki/%C3%89velyne_Heyer;Française;1964;;Biologie, anthropologie, génétique des populations;;
 Grace;Hopper;;;;;;;
 Andrée;Hoppilliard;;;;;;;
+Mary;Jackson;https://fr.wikipedia.org/wiki/Mary_Jackson_(mathématicienne);Américaine;1921;2005;Mathématiques;;
 Katherine;Johnson;https://fr.wikipedia.org/wiki/Katherine_Johnson;Américaine;1918;2020;;;
 Irène;Joliot-Curie;https://fr.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie;Française;1897;1956;;;Prix Nobel de chimie 1935
 Geneviève;Jourdain;;;;;;;
@@ -89,7 +97,7 @@ Dorothéa;Klumpke;;;;;;;
 Lydie;Koch;;;;;;;
 Adelheid;Kofler;;Autrichienne;1889;1985;;;
 Sofia;Kovalevskaia;;;;;;;
-Katia;Krafft;;;;;;;
+Katia;Krafft;https://fr.wikipedia.org/wiki/Katia_et_Maurice_Krafft;Française;1942;1991;Volcanologie;;
 Colette;Kreder;;;;;;;
 Anne;L'Huillier;https://fr.wikipedia.org/wiki/Anne_L’Huillier;Franco-suédoise;1958;;;;Prix Nobel de physique 2023
 Isabelle;Laffont;;;;;;;
@@ -100,11 +108,13 @@ Yolande;Le Calvez;;;;;;;
 Nicole;Le Douarin;;;;;;;
 Henrietta;Leavitt;https://fr.wikipedia.org/wiki/Henrietta_Swan_Leavitt;Américaine;1868;1921;;;
 Cornélie;Lebon-De Brambilla;;;;;;;
+Inge;Lehmann;https://fr.wikipedia.org/wiki/Inge_Lehmann;Danoise;1888;1993;Sismologie;;
 Nicole-Reine;Lepaute;;;;;;;
 Rita;Levi-Montalcini;https://fr.wikipedia.org/wiki/Rita_Levi-Montalcini;Italienne;1909;2012;Neurologie;Découverte du facteur de croissance nerveuse. ;Prix Nobel de physiologie ou médecine 1986 
-Paulette;Libermann;;;;;;;
-Ada;Lovelace;https://fr.wikipedia.org/wiki/Ada_Lovelace;;;;;;
-Nicole;Mangin;;;;;;;
+Paulette;Libermann;https://fr.wikipedia.org/wiki/Paulette_Libermann;Française;1919;2007;Mathématiques, géométrie différentielle;;
+Ada;Lovelace;https://fr.wikipedia.org/wiki/Ada_Lovelace;Britannique;1815;1852;Informatique;;
+Isabel;Maddison;https://fr.wikipedia.org/wiki/Isabel_Maddison;Britannique;1869;1950;Mathématiques, équations différentielles;;
+Nicole;Mangin;https://fr.wikipedia.org/wiki/Nicole_Girard-Mangin;Française;1878;1919;Médecine;;
 Mileva;Marić;https://fr.wikipedia.org/wiki/Mileva_Einstein;Serbe;1875;1948;;;
 Valérie;Masson-Delmotte;;;;;;;
 Alice;Mathieu-Dubois;https://fr.wikipedia.org/wiki/Alice_Mathieu-Dubois;Française;1861;1942;Médecine, médecine dentaire;;
@@ -126,6 +136,7 @@ Francisca Nneka;Okeke;https://fr.wikipedia.org/wiki/Francisca_Okeke;Nigériane;1
 Isabelle;Olivieri;;;;;;;
 Marie-Louise;Paris;;;;;;;
 Sabrina;Pasterski;https://fr.wikipedia.org/wiki/Sabrina_Pasterski;Américaine;1993;;Physique;;
+Marie-Anne;Paulze;https://fr.wikipedia.org/wiki/Marie-Anne_Pierrette_Paulze;Française;1758;1836;Chimie;;
 Cecilia;Payne;https://fr.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin;Britannique;1900;1979;;;
 Ruby;Payne-Scott;https://fr.wikipedia.org/wiki/Ruby_Payne-Scott;Australienne;1912;1981;Physique, radiophysique, radioastronomie;;
 Madeleine;Pelletier;;;;;;;
@@ -141,7 +152,7 @@ Julia;Robinson;https://fr.wikipedia.org/wiki/Julia_Robinson;;;;;;
 Marie-Françoise;Roy;;;;;;;
 Vera;Rubin;https://fr.wikipedia.org/wiki/Vera_Rubin;Américaine;1928;2016;;;
 María Teresa;Ruiz;https://fr.wikipedia.org/wiki/Mar%C3%ADa_Teresa_Ruiz;Chilienne;1946;;;;
-Laure;Saint-Raymond;;;;;;;
+Laure;Saint-Raymond;https://fr.wikipedia.org/wiki/Laure_Saint-Raymond;Française;1975;;Mathématiques;;
 Michelle;Schatzman;;;;;;;
 Anne-Marcelle;Schrameck;;;;;;;
 Marie-Hélène;Schwartz;;;;;;;
@@ -154,6 +165,8 @@ Marie;Skłodowska-Curie;https://fr.wikipedia.org/wiki/Marie_Curie;Franco-polonai
 Hélène;Sparrow;https://fr.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_Sparrow;Franco-polonaise;1891;1970;Médecine, microbiologie;;
 Donna;Strickland;https://fr.wikipedia.org/wiki/Donna_Strickland;Canadienne;1959; ;;;Prix Nobel de physique 2018
 Ida;Tacke;https://fr.wikipedia.org/wiki/Ida_Tacke;Allemande ;1896;1978;;;
+Esther;Takeuchi;https://en.wikipedia.org/wiki/Esther_Takeuchi;Américaine;1953;;Chimie;;
+Ewin;Tang;https://fr.wikipedia.org/wiki/Ewin_Tang;Américaine;2000;;Mathématiques, informatique quantique;;
 Olga;Taussky;https://fr.wikipedia.org/wiki/Olga_Taussky-Todd;Tchéco-américaine ;1906;1995;;;
 Bianca;Tchoubar;;;;;;;
 Marie-Antoinette;Tonnelat;;;;;;;
@@ -168,6 +181,7 @@ Michèle;Vergne;;;;;;;
 Maryna;Viazovska;https://fr.wikipedia.org/wiki/Maryna_Viazovska;Ukrainienne;1984;;;;
 Jeanne;Villepreux;;;;;;;
 Claire;Voisin;https://fr.wikipedia.org/wiki/Claire_Voisin;Française;1962;;;;
+Hong;Wang;https://fr.wikipedia.org/wiki/Hong_Wang;Chinoise;1991;;Mathématiques;;
 Mariana;Weissmann;https://fr.wikipedia.org/wiki/Mariana_Weissmann;Argentine;1933;;;;
 Chien-Shiung;Wu;https://fr.wikipedia.org/wiki/Chien-Shiung_Wu;Chinoise;1912;1997;;;
 Sau Lan;Wu;https://fr.wikipedia.org/wiki/Sau_Lan_Wu;Sino-américaine;1940;;;;
@@ -175,4 +189,5 @@ Rosalyn;Yalow;https://fr.wikipedia.org/wiki/Rosalyn_Yalow;Américaine;1921;2011;
 Ada;Yonath;https://fr.wikipedia.org/wiki/Ada_Yonath;Israélienne;1939;;;;Prix Nobel de chimie 2009 
 Tu;Youyou;https://fr.wikipedia.org/wiki/Tu_Youyou;Chinoise;1930;;;;Prix Nobel de physiologie ou médecine 2015
 Toshiko;Yuasa;https://fr.wikipedia.org/wiki/Toshiko_Yuasa;Japonaise;1909;1980;;;
+Wang;Zhenyi;https://fr.wikipedia.org/wiki/Wang_Zhenyi;Chinoise;1768;1797;Astronomie;;
 Hypathie;;https://fr.wikipedia.org/wiki/Hypatie;Grecque;IVème siècle;Vème siècle;Philosophie, astronomie, mathématiques;;
